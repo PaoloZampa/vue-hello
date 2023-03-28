@@ -10,7 +10,8 @@ Buon divertimento e confermate lettura come al solito! */
   createApp({
     data() {
       return {
-        myMessage: 'Hello Vueeeeee!'
+        myMessage: 'Hello Vueeeeee!',
+        imgLink: 'https://picsum.photos/1000/600'
       }
     }
   }).mount('#app')
